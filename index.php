@@ -1,6 +1,6 @@
 <?php 
 
-	echo "Los de login meten aquí";
+	echo "Los de login meten aquí ";
 
 
  ?>
